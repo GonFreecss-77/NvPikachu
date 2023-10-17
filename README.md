@@ -1,4 +1,18 @@
 # NvPikachu
+`;-.          ___,
+  `.`\_...._/`.-"`
+    \        /      ,
+    /()   () \    .' `-._
+   |)  .    ()\  /   _.'
+   \  -'-     ,; '. <
+    ;.__     ,;|   > \
+   / ,    / ,  |.-'.-'
+  (_/    (_/ ,;|.<`
+    \    ,     ;-`
+     >   \    /
+    (_,-'`> .'
+jgs      (_,'
+
 Nvpikachu is an awesome and lightweight neovim configuration 
 It has various plugins   
     ● alpha-nvim 
