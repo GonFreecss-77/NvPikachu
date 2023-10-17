@@ -49,4 +49,5 @@ It has various plugins
     
     INSTALLATION -
            Windows: git clone https://github.com/GonFreecss-77/NvPikachu.git $HOME\AppData\Local\nvim --depth 1 &&
-    
+
+           Linux or Mac : https://github.com/GonFreecss-77/NvPikachu.git ~/.config/nvim --depth 1 && nvim
