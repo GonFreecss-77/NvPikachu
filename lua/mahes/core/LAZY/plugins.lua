@@ -1,4 +1,5 @@
 return {   
+	defaults={lazy = true}
         {"nvim-treesitter/nvim-treesitter"},--treesitter
 { "catppuccin/nvim", name = "catppuccin", priority = 1000 },
 	 {
