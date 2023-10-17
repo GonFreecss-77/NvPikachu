@@ -12,5 +12,5 @@ end
 vim.opt.rtp:prepend(lazypath)
 require("lazy").setup({
 	{ import = "mahes.core.LAZY.plugins" },
-	{defaults Lazy=true}
+	
 })
