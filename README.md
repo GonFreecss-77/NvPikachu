@@ -2,6 +2,7 @@
 
 Nvpikachu is an awesome and lightweight neovim configuration 
 It has various plugins   
+    
     ● alpha-nvim 
     
     ● bufferline.nvim
@@ -37,4 +38,5 @@ It has various plugins
     ● plenary.nvim
     
     ● telescope.nvim
+    
     ● tokyonight.nvim
