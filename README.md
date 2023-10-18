@@ -3,8 +3,11 @@
 Nvpikachu is an awesome and lightweight neovim configuration 
 
 REQUIREMENTS: Rigrep --must
+
                   grep --must
+                  
                   git --must
+                  
                   Nerd font --optional 
     
     ● alpha-nvim 
