@@ -43,8 +43,11 @@ Plugins **_**
 
 
    REQUIREMENTS: Rigrep --must
+   
                   grep --must
+                  
                   git --must
+                  
                   Nerd font --optional
     
     INSTALLATION -
@@ -55,6 +58,10 @@ Plugins **_**
            
 Configuration -
                +NvPikachu use lazy nvim as an plugin manager,custom plugins can added in nvim/lua/mahes/core/Lazy/plugins.lua
+
+               
                +LSPs,Linters,Formatters,Debug adapters can be install through Mason cmd
+
+               
                +Plugins configuration are located at nvim/lua/plugin
   
