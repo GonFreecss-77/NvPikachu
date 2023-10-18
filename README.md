@@ -19,7 +19,8 @@ FEATURES:
          
          -LSP support can be easily configured for many languages 
          
-Plugins **_** 
+Plugins Available 
+
     ● alpha-nvim 
     
     ● bufferline.nvim
@@ -65,6 +66,7 @@ Plugins **_**
                   git --must
                   
                   Nerd font --optional
+                  
     
     INSTALLATION -
     
