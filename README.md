@@ -1,15 +1,12 @@
 # NvPikachu
 
 Nvpikachu is an awesome and lightweight neovim configuration 
-
-REQUIREMENTS: Rigrep --must
-
-                  grep --must
-                  
-                  git --must
-                  
-                  Nerd font --optional 
-    
+Features:-Easy to congigure
+         -Lightweight 
+         -Powerfull
+         -Very less startup time
+         -LSP support can be easily configured for many languages 
+Plugins **_** 
     ● alpha-nvim 
     
     ● bufferline.nvim
@@ -45,16 +42,19 @@ REQUIREMENTS: Rigrep --must
     ● telescope.nvim
 
 
-    
-
-    
-                  
-
+   REQUIREMENTS: Rigrep --must
+                  grep --must
+                  git --must
+                  Nerd font --optional
     
     INSTALLATION -
     
            Windows: git clone https://github.com/GonFreecss-77/NvPikachu.git $HOME\AppData\Local\nvim --depth 1 &&
            
            Linux or Mac :git clone https://github.com/GonFreecss-77/NvPikachu.git ~/.config/nvim --depth 1 && nvim
-
            
+Configuration -
+               +NvPikachu use lazy nvim as an plugin manager,custom plugins can added in nvim/lua/mahes/core/Lazy/plugins.lua
+               +LSPs,Linters,Formatters,Debug adapters can be install through Mason cmd
+               +Plugins configuration are located at nvim/lua/plugin
+  
