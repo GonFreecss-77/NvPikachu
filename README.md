@@ -1,7 +1,11 @@
 # NvPikachu
 
 Nvpikachu is an awesome and lightweight neovim configuration 
-It has various plugins   
+
+REQUIREMENTS: Rigrep --must
+                  grep --must
+                  git --must
+                  Nerd font --optional 
     
     ● alpha-nvim 
     
@@ -40,10 +44,7 @@ It has various plugins
 
     
 
-    REQUIREMENTS: Rigrep --must
-                  grep --must
-                  git --must
-                  Nerd font --optional
+    
                   
 
     
