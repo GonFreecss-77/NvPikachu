@@ -74,7 +74,7 @@ Plugins Available
          
            WINDOWS: git clone https://github.com/GonFreecss-77/NvPikachu.git $HOME\AppData\Local\nvim --depth 1 &&
            
-           LINUX or MAC :git clone https://github.com/GonFreecss-77/NvPikachu.git ~/.config/nvim --depth 1 && nvim
+           LINUX or MAC: git clone https://github.com/GonFreecss-77/NvPikachu.git ~/.config/nvim --depth 1 && nvim
            
 Configuration -
               
