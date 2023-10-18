@@ -7,8 +7,6 @@ It has various plugins
     
     ● bufferline.nvim
     
-    ● catppuccin
-    
     ● cmp-nvim-lsp
     
     ● lazy.nvim
@@ -38,18 +36,21 @@ It has various plugins
     ● plenary.nvim
     
     ● telescope.nvim
+
+
     
-    ● tokyonight.nvim
 
     REQUIREMENTS: Rigrep --must
                   grep --must
                   git --must
                   Nerd font --optional
+                  
 
     
     INSTALLATION -
+    
            Windows: git clone https://github.com/GonFreecss-77/NvPikachu.git $HOME\AppData\Local\nvim --depth 1 &&
-
+           
            Linux or Mac :git clone https://github.com/GonFreecss-77/NvPikachu.git ~/.config/nvim --depth 1 && nvim
 
            
