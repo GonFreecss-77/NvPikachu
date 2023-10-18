@@ -68,6 +68,7 @@ Plugins Available
                   Nerd font --optional
                   
     
+    
     INSTALLATION -
     
            Windows: git clone https://github.com/GonFreecss-77/NvPikachu.git $HOME\AppData\Local\nvim --depth 1 &&
@@ -76,6 +77,7 @@ Plugins Available
            
 Configuration -
               
+             
                +NvPikachu use lazy nvim as an plugin manager,custom plugins can added in nvim/lua/mahes/core/Lazy/plugins.lua
 
                
