@@ -75,6 +75,7 @@ Plugins Available
            Linux or Mac :git clone https://github.com/GonFreecss-77/NvPikachu.git ~/.config/nvim --depth 1 && nvim
            
 Configuration -
+              
                +NvPikachu use lazy nvim as an plugin manager,custom plugins can added in nvim/lua/mahes/core/Lazy/plugins.lua
 
                
