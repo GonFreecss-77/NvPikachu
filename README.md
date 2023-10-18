@@ -2,14 +2,19 @@
 
 Nvpikachu is an awesome and lightweight neovim configuration 
 
+
 FEATURES:
          -Easy to congigure
          
+         
          -Lightweight 
+         
          
          -Powerfull
          
+         
          -Very less startup time
+         
          
          -LSP support can be easily configured for many languages 
          
