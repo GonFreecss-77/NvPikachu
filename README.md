@@ -42,7 +42,9 @@ Plugins **_**
     ● telescope.nvim
 
 
-   REQUIREMENTS: Rigrep --must
+
+   REQUIREMENTS:
+                  Rigrep --must
    
                   grep --must
                   
