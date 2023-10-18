@@ -69,12 +69,12 @@ Plugins Available
                   
     
     
-    INSTALLATION -
+  INSTALLATION -
     
          
-           Windows: git clone https://github.com/GonFreecss-77/NvPikachu.git $HOME\AppData\Local\nvim --depth 1 &&
+           WINDOWS: git clone https://github.com/GonFreecss-77/NvPikachu.git $HOME\AppData\Local\nvim --depth 1 &&
            
-           Linux or Mac :git clone https://github.com/GonFreecss-77/NvPikachu.git ~/.config/nvim --depth 1 && nvim
+           LINUX or MAC :git clone https://github.com/GonFreecss-77/NvPikachu.git ~/.config/nvim --depth 1 && nvim
            
 Configuration -
               
