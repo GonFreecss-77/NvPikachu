@@ -4,7 +4,8 @@ Nvpikachu is an awesome and lightweight neovim configuration
 
 
 FEATURES:
-         -Easy to congigure
+        
+         -Easy to configure
          
          
          -Lightweight 
